@@ -5,7 +5,7 @@ import java.io.PrintWriter;
 import java.util.StringTokenizer;
 
 public class Main {
-
+/////////////////////////////////////////////////// IAM THE SOLUTION //////////////////////////////////
     public static void main(String[] args) {
         FastScanner in = new FastScanner();
         PrintWriter out = new PrintWriter(System.out);
@@ -16,7 +16,7 @@ public class Main {
         else out.println("INCOMING!!!");
         out.close();
     }
-
+////////////////////////////////////////////////// IGNORE BELOW ////////////////////////////////////////////////////
 
     static class FastScanner {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
