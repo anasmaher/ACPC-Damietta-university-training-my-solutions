@@ -19,3 +19,6 @@ int main()
     }
     cout << res << '\n';
 }
+
+// use a set if you know about it, solution:
+// 4-setSize
